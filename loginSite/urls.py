@@ -19,7 +19,7 @@ from login import views
 from django.conf.urls import include
 
 urlpatterns = [
-    path('admin/', admin.site.urls), # 管理员 admin kdm+*70*1*
+    path('admin/', admin.site.urls), # 管理员 admin k**m+*70*1*
     path('index/', views.index),
     path('login/', views.login),
     path('register/',views.register),
