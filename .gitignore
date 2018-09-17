@@ -1,0 +1,4 @@
+.idea
+settings.py
+db.sqlite3
+loginsite/__pycache__/
